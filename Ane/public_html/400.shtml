@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Optima Hosting - 400 Bad request</title>
+<style type="text/css">
+body {
+	margin: 10% 0 0;
+	padding: 0;
+	background-color: #481011;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #430C0D;
+}
+.poz {
+	background: url(https://www.optimahosting.hr/error-page/400.png) no-repeat center;
+	min-height: 435px;
+	min-width: 860px;
+}
+.text {
+	font-weight: bold;
+	font-size: 28px;
+	text-align: left;
+	padding: 112px 0 0 385px;
+	width: 450px;
+}
+.logo {
+	padding: 0 0 35px 105px;
+}
+.logo a {
+	text-decoration: none;
+}
+.logo a:hover {
+	text-decoration: none;
+}
+</style>
+</head>
+
+<body>
+<div class="poz" align="center">
+  <div class="text">
+    <div class="logo"><a title="OptimaHosting.hr" href="https://www.optimahosting.hr/"> <img border="0" src="https://www.optimahosting.hr/error-page/logo.png" alt="OptimaHosting.hr"></a></div>
+    Bad request! Your browser sent an invalid request.</div>
+</div>
+</body>
+</html>
